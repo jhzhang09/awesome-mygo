@@ -14,11 +14,11 @@
 	"url": "https://github.com/jhzhang09/serval",
 	"repo": "jhzhang09/serval",
 	"summary": {
-		"en": "Native GPU-rendered SSH client with split terminals, dual-pane SFTP, AI Agent, and end-to-end encrypted vault sync.",
-		"zh-CN": "原生 GPU 渲染的 SSH 客户端，内置分屏终端、双栏 SFTP 文件管理、AI Agent 与端到端加密保险库同步。",
-		"zh-TW": "原生 GPU 渲染的 SSH 用戶端，內建分割終端、雙欄 SFTP 檔案管理、AI Agent 與端對端加密保險庫同步。",
-		"ja": "分割ターミナル、デュアルペイン SFTP、AI エージェント、エンドツーエンド暗号化ボールト同期を備えたネイティブ GPU 描画 SSH クライアント。",
-		"ko": "분할 터미널, 듀얼 페인 SFTP, AI 에이전트, 종단간 암호화 볼트 동기화를 갖춘 네이티브 GPU 렌더링 SSH 클라이언트."
+		"en": "Native SSH client with split terminals, dual-pane SFTP, AI Agent, and encrypted vault sync.",
+		"zh-CN": "原生 SSH 客户端，支持分屏终端、双栏 SFTP、AI Agent 与加密同步。",
+		"zh-TW": "原生 SSH 用戶端，支援分割終端、雙欄 SFTP、AI Agent 與加密同步。",
+		"ja": "分割ターミナル・SFTP・AI エージェント・暗号化同期を備えたネイティブ SSH クライアント。",
+		"ko": "분할 터미널, SFTP, AI 에이전트, 암호화 동기화를 갖춘 네이티브 SSH 클라이언트."
 	},
 	"description": {
 		"en": "Serval is a lightweight, native SSH client built with Go and MyGo without WebView. It supports multi-tab split terminals, jump hosts, SOCKS5/HTTP proxies, port forwarding, dual-pane SFTP with inline editing, ZMODEM transfers, real-time server metrics, an AI Agent drawer, and zero-knowledge encrypted vault sync via WebDAV, S3, or GitHub Gist.",
